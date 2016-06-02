@@ -1,0 +1,25 @@
+<?php
+$s_menu_faq_link = "FAQ";
+$s_plugin_FAQ_add_faq = "Agregar FAQ";
+$s_plugin_FAQ_add_faq_title = "Nueva FAQ";
+$s_plugin_FAQ_post_faq_button = "Promover a FAQ";
+$s_plugin_FAQ_question = "Pregunta";
+$s_plugin_FAQ_answere = "Respuesta";
+$s_plugin_FAQ_delete_faq_sure_msg = "Seguro en Borrar esta FAQ?";
+$s_plugin_FAQ_delete_faq_item_button = "Borrar FAQ";
+$s_plugin_FAQ_edit_faq_title = "Editar FAQ";
+$s_plugin_FAQ_update_faq_button = "Actualizar FAQ";
+$s_plugin_FAQ_import_faq = "Promover a FAQ";
+$s_plugin_FAQ_search_string = "Search whole string";
+$s_plugin_FAQ_close_window = "Cerrar Ventana";
+// config section
+$s_plugin_FAQ_plugin_format_title = "Mantis FAQ";
+$s_plugin_FAQ_plugin_format_config = "Configuración";
+$s_plugin_FAQ_plugin_format_promote_text = "Incidencias pueden promoverse a FAQ's";
+$s_plugin_FAQ_plugin_format_project_text = "Guardar FAQ por proyecto";
+$s_plugin_FAQ_plugin_format_threshold_text = "Perfil Minimo para crear FAQ's";
+$s_plugin_FAQ_faq_view_check = "Mantener FAQ antes de la promoción";
+$s_plugin_FAQ_faq_view_threshold = "Perfil Minimo para ver FAQ's";
+$s_plugin_FAQ_faq_view_window = "Abrir FAQ's en nueva ventana";
+$s_plugin_FAQ_plugin_format_enabled = "On";
+$s_plugin_FAQ_plugin_format_disabled = "Off";
